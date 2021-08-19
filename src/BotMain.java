@@ -20,14 +20,14 @@ public class BotMain {
 		bot.connect("irc.freenode.net");
 		
 		// Join the #ClaireS channel
-		bot.joinChannel("#ClaireS");
+		bot.joinChannel("#NewBot");
 		
 		// Display the functions that this bot can do
-		bot.sendMessage("#ClaireS", "There are 3 functions that this bot can do");
-		bot.sendMessage("#ClaireS", "You can do the following using the format below");
-		bot.sendMessage("#ClaireS", "Look up for weather - \"weather zipcode/city\"");
-		bot.sendMessage("#ClaireS", "Look up for menu - \"menu menuName\"");
-		bot.sendMessage("#ClaireS","Look up for recipe - \"recipe recipeName/menuName\"");
+		bot.sendMessage("#NewBot", "There are 3 functions that this bot can do");
+		bot.sendMessage("#NewBot", "You can do the following using the format below");
+		bot.sendMessage("#NewBot", "Look up for weather - \"weather zipcode/city\"");
+		bot.sendMessage("#NewBot", "Look up for menu - \"menu menuName\"");
+		bot.sendMessage("#NewBot","Look up for recipe - \"recipe recipeName/menuName\"");
 		
 	}
 }
