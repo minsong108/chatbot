@@ -1,9 +1,4 @@
 /*
- * Claire Song
- * CS2336.502
- * Professor Khan
- * 10/11/2020
- * 
  * This program connects to irc connect, irc.freenode.net, and displays the weather, menu, and 
  * recipe specified by the user.
  * The program calls 2 APIs, weather and menu/recipe.
