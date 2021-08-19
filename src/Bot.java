@@ -12,7 +12,7 @@ import org.jibble.pircbot.PircBot;
 public class Bot extends PircBot {
 	
 	public Bot() {
-		this.setName("ClaireSongBot");
+		this.setName("NewBot");
 	}
 	
 	/*
