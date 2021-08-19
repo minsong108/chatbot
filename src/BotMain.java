@@ -19,7 +19,7 @@ public class BotMain {
 		// Connect to the server
 		bot.connect("irc.freenode.net");
 		
-		// Join the #ClaireS channel
+		// Join the #NewBot channel
 		bot.joinChannel("#NewBot");
 		
 		// Display the functions that this bot can do
